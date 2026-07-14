@@ -10,3 +10,4 @@
 Module.symvers
 modules.order
 test_vchar
+vchar_ctl
